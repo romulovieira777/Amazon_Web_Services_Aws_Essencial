@@ -10,9 +10,8 @@ Esta seção apresenta a visão geral do curso **Amazon Web Services (AWS): Esse
 
 ## Material disponível
 
-- `Geek_University_Amazon_Web_Services_AWS_Essencial.png`
+- [Geek University Amazon Web Services (AWS): Essencial (Imagem)](./Geek_University_Amazon_Web_Services_AWS_Essencial.png)
 
 ## Resultado esperado
 
 Ao final desta seção, você terá uma visão clara sobre o que será estudado ao longo do curso.
-
