@@ -10,7 +10,7 @@ Esta seção apresenta a visão geral do curso **Amazon Web Services (AWS): Esse
 
 ## Material disponível
 
-- [Geek University Amazon Web Services (AWS): Essencial (Imagem)](./Geek_University_Amazon_Web_Services_AWS_Essencial.png)
+- [Geek University Amazon Web Services (AWS): Essencial](./Geek_University_Amazon_Web_Services_AWS_Essencial.png)
 
 ## Resultado esperado
 
