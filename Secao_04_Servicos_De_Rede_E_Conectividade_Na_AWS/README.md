@@ -1,23 +1,23 @@
-## Secao 04: Servicos de Rede e Conectividade na AWS
+## Seção 04: Serviços de Rede e Conectividade na AWS
 
-Esta secao apresenta os principais conceitos de rede na AWS, com foco em infraestrutura global, VPC, conectividade com Internet e segmentacao de rede.
+Esta seção apresenta os principais conceitos de rede na AWS, com foco em infraestrutura global, VPC, conectividade com Internet e segmentação de rede.
 
-### Objetivos da secao
+### Objetivos da seção
 - Entender os fundamentos de rede e conectividade na AWS.
 - Compreender os componentes essenciais de uma VPC.
-- Conhecer elementos de controle de trafego e organizacao de sub-redes.
+- Conhecer elementos de controle de tráfego e organização de sub-redes.
 
-### Conteudo estudado
-- Visao geral da infraestrutura global da AWS.
+### Conteúdo estudado
+- Visão geral da infraestrutura global da AWS.
 - Conceitos de Virtual Private Cloud (VPC).
 - Gateway de Internet.
 - Tabelas de rotas.
 - Listas de controle de acesso.
 - Subnets e zonas de disponibilidade.
-- Recapitulacao dos conceitos da secao.
+- Recapitulação dos conceitos da seção.
 
-### Materiais da secao
-- [01 - Visao Geral da Infraestrutura Global da AWS](./01_Visao_Geral_Da_Infraestrutura_Global_Da_AWS.pdf)
+### Materiais da seção
+- [01 - Visão Geral da Infraestrutura Global da AWS](./01_Visao_Geral_Da_Infraestrutura_Global_Da_AWS.pdf)
 - [02 - Entendendo a Virtual Private Cloud (VPC)](./02_Entendendo_A_Virtual_Private_Cloud_VPC.pdf)
 - [03 - Entendendo o Gateway de Internet](./03_Entendendo_O_Gateway_De_Internet.pdf)
 - [04 - Entendendo as Tabelas de Rotas](./04_Entendendo_As_Tabelas_De_Rotas.pdf)
@@ -27,5 +27,4 @@ Esta secao apresenta os principais conceitos de rede na AWS, com foco em infraes
 - [08 - Recapitulando](./08_Recapitulando.pdf)
 
 ### Resultado esperado
-Ao final desta secao, voce tera uma base solida sobre a estrutura de rede na AWS para avancar para topicos de computacao e arquitetura em nuvem.
-
+Ao final desta seção, você terá uma base sólida sobre a estrutura de rede na AWS para avançar para tópicos de computação e arquitetura em nuvem.
