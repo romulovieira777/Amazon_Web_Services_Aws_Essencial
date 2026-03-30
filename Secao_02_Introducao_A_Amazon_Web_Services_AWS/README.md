@@ -1,20 +1,19 @@
-## Secao 02: Introducao a Amazon Web Services (AWS)
+## Seção 02: Introdução à Amazon Web Services (AWS)
 
-Esta secao apresenta os primeiros passos na AWS com foco na criacao da conta gratuita (Free Tier).
+Esta seção apresenta os primeiros passos na AWS com foco na criação da conta gratuita (Free Tier).
 
-### Objetivos da secao
-- Entender o que e a AWS e como iniciar na plataforma.
+### Objetivos da seção
+- Entender o que é a AWS e como iniciar na plataforma.
 - Criar uma conta gratuita na AWS.
-- Conhecer os cuidados iniciais de acesso e seguranca da conta.
+- Conhecer os cuidados iniciais de acesso e segurança da conta.
 
-### Conteudo estudado
-- Criacao da conta gratuita na AWS.
-- Etapas de validacao e configuracao inicial da conta.
-- Visao geral do ambiente para comecar os estudos.
+### Conteúdo estudado
+- Criação da conta gratuita na AWS.
+- Etapas de validação e configuração inicial da conta.
+- Visão geral do ambiente para começar os estudos.
 
-### Material da secao
+### Material da seção
 - [Criando Sua Conta Gratuita na AWS (PDF)](./Criando_Sua_Conta_Gratuita_Na_AWS_Pdf.pdf)
 
 ### Resultado esperado
-Ao final desta secao, voce tera sua conta AWS criada e pronta para avancar para os proximos topicos do curso.
-
+Ao final desta seção, você terá sua conta AWS criada e pronta para avançar para os próximos tópicos do curso.
