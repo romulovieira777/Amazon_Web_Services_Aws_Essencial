@@ -11,8 +11,12 @@ Esta seção apresenta os principais conceitos do Amazon S3 e recursos relaciona
 - Boas práticas de segurança no S3
 
 ### Arquivos da seção
-Adicione aqui os arquivos em PDF e materiais de apoio desta seção.
+- `01_Introducao_Ao_Servico_De_Armazenamento_S3_Da_Aws.pdf`
+- `02_Entendendo_Buckets_E_Objetos.pdf`
+- `03_Entendendo_As_Classes_De_Armazenamento.pdf`
+- `04_Entendendo_O_Ciclo_De_Vida_Dos_Objetos.pdf`
+- `05_Entendendo_O_Sistema_De_Permissoes.pdf`
+- `06_Entendendo_O_Versionamento_De_Objetos.pdf`
 
 ### Observações
 Esta documentação foi criada para centralizar os materiais e facilitar o acompanhamento dos estudos da Seção 06.
-
