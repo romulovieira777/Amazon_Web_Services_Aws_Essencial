@@ -1,14 +1,14 @@
-## Secao 05: Servicos de Computacao EC2 da AWS
+## Seção 05: Serviços de Computação EC2 da AWS
 
-Esta secao apresenta os principais conceitos do Amazon EC2 e recursos relacionados para criacao e gerenciamento de instancias na AWS.
+Esta seção apresenta os principais conceitos do Amazon EC2 e recursos relacionados para criação e gerenciamento de instâncias na AWS.
 
-### Conteudos da secao
-- 01 - Introducao ao EC2
-- 02 - Entendendo as Imagens de Maquina da Amazon (AMI)
-- 03 - Entendendo os Tipos de Instancia
+### Conteúdos da seção
+- 01 - Introdução ao EC2
+- 02 - Entendendo as Imagens de Máquina da Amazon (AMI)
+- 03 - Entendendo os Tipos de Instância
 - 04 - Entendendo o Elastic Block Store (EBS)
-- 06 - Entendendo os Grupos de Seguranca
-- 07 - Entendendo o Enderecamento IP
+- 06 - Entendendo os Grupos de Segurança
+- 07 - Entendendo o Endereçamento IP
 
 ### Arquivos de apoio
 - `putty.exe`
@@ -21,4 +21,3 @@ Esta secao apresenta os principais conceitos do Amazon EC2 e recursos relacionad
 - `04_Entendendo_O_Elastic_Block_Store.pdf`
 - `06_Entendendo_Os_Grupos_De_Seguranca.pdf`
 - `07_Entendendo_O_Enderecamento_IP.pdf`
-
