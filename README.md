@@ -14,5 +14,6 @@ Curso de Amazon Web Services (AWS): Essencial
 - [Seção 06: Serviços de Armazenamento S3 da AWS](https://github.com/romulovieira777/Amazon_Web_Services_Aws_Essencial/tree/main/Secao_06_Servicos_De_Armazenamento_S3_Da_AWS)
   - [Documentação da Seção 06](./Secao_06_Servicos_De_Armazenamento_S3_Da_AWS/README.md)
 - [Seção 07: Serviços de Banco de Dados SQL e NoSQL da AWS](https://github.com/romulovieira777/Amazon_Web_Services_Aws_Essencial/tree/main/Secao_07_Servicos_De_Banco_De_Dados_Sql_E_Nosql_Da_Aws)
+  - [Documentação da Seção 07](./Secao_07_Servicos_De_Banco_De_Dados_Sql_E_Nosql_Da_Aws/README.md)
 
 Link para o curso: [Udemy](https://www.udemy.com/course/amazon-web-services-essencial/?srsltid=AfmBOorjR9W6f2AHhNaOlk1KByafMebLnqyYyu3YjCxWELziN3qdB9-9)
