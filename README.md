@@ -21,5 +21,6 @@ Curso de Amazon Web Services (AWS): Essencial
   - [Documentação da Seção 09](./Secao_09_Balanceamento_De_Carga_E_Escalabilidade_Na_Aws/README.md)
 - [Seção 10: Computação sem Servidor (Serveless) com Lambda na AWS](https://github.com/romulovieira777/Amazon_Web_Services_Aws_Essencial/tree/main/Secao_10_Computacao_Sem_Servidor_Serveless_Com_Lambda_Na_AWS)
   - [Documentação da Seção 10](./Secao_10_Computacao_Sem_Servidor_Serveless_Com_Lambda_Na_AWS/README.md)
+- [Seção 11: Encerramento](https://github.com/romulovieira777/Amazon_Web_Services_Aws_Essencial/tree/main/Secao_11_Encerramento)
 
 Link para o curso: [Udemy](https://www.udemy.com/course/amazon-web-services-essencial/?srsltid=AfmBOorjR9W6f2AHhNaOlk1KByafMebLnqyYyu3YjCxWELziN3qdB9-9)
